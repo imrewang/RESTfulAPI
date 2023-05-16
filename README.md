@@ -10,7 +10,7 @@ Spring Boot 项目实践之 RESTful API 设计与实现
 
 ![连接数据库](db.png)
 
-修改
+修改application.properties中的
 
 ```
 spring.datasource.username=root
